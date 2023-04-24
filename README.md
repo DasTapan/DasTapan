@@ -11,6 +11,22 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on **Any Project**
 - 🤔 I’m looking for help with **Vite**
 - 💬 Ask me about **Anything**
-- 📫 How to reach me: **LinkedIn**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/td94/)**
 - ⚡ Fun fact: I love **Terminal**
 
+### Skills
+
+Here are some of the skills and technologies that I have learned and am proficient in:
+
+- React
+- JavaScript
+- Git
+- Linux
+- SASS
+- CSS
+- Webpack
+- Jest
+- npm
+- HTML
+
+I am also eager to learn and explore new technologies and frameworks to enhance my skill set.
