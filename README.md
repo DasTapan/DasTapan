@@ -6,10 +6,10 @@ My name is Tapan Das, and I am a front-end developer looking to switch careers t
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on **Firebase Projects**
-- 🌱 I’m currently learning **Firebase**
+- 🔭 I’m currently working on **Where's Waldo** web app
+- 🌱 I’m currently learning **More React Hooks**
 - 👯 I’m looking to collaborate on **Any Project**
-- 🤔 I’m looking for help with **Vite**
+- 🤔 I’m looking for help with **Best Practices**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/td94/)**
 - ⚡ Fun fact: I love **Terminal**
@@ -22,6 +22,7 @@ Here are some of the skills and technologies that I have learned and am proficie
 - JavaScript
 - Git
 - Linux
+- Tailwind
 - SASS
 - CSS
 - Webpack
