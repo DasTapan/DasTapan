@@ -50,8 +50,8 @@ Here are some ideas to get you started: -->
 
 ### Operating System
 
-<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu 20.04-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DasTapan&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasTapan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DasTapan&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasTapan&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
