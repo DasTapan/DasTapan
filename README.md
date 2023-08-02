@@ -6,10 +6,9 @@ Hello there! 👋 I'm Tapan, a passionate front-end developer with a focus on cr
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on **Where's Waldo** web app
-- 🌱 I’m currently learning **More React Hooks**
+- 🔭 I’m currently working on **Responsiveness**
+- 🌱 I’m currently learning **Advanced React Topics**
 - 👯 I’m looking to collaborate on **Any Project**
-- 🤔 I’m looking for help with **Career**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: <a  href="https://www.linkedin.com/in/td94/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - ⚡ Fun fact: I love **Terminal**
