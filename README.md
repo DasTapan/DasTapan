@@ -1,6 +1,6 @@
 ### About Me
 
-My name is Tapan Das, and I am a front-end developer looking to switch careers to pursue my passion for coding. I have 6 years of experience in a different field, but I have always been interested in technology and web development. I have been learning and doing projects for last 14 months and I am eager to apply my skills and knowledge to a new career path.
+Hello there! 👋 I'm Tapan, a passionate front-end developer with a focus on crafting engaging web experiences using the React framework. My GitHub is a hub for all things UI/UX, where I love experimenting with innovative designs and cutting-edge technologies. Join me on this coding journey as we build beautiful, user-friendly interfaces together! Let's collaborate and create something remarkable! 
 
 <!-- **DasTapan/DasTapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
