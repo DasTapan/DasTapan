@@ -6,18 +6,17 @@ Hello there! 👋 I'm Tapan, a passionate front-end developer with a focus on cr
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on **Adv CSS**
-- 🌱 I’m currently learning **Rendering Performance**
-- 👯 I’m looking to collaborate on **React Web App**
+- 🔭 I’m currently learning **Server Side Technology**
+- 👯 I’m looking to collaborate on **Intersting Projects**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: <a  href="https://www.linkedin.com/in/td94/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- ⚡ Fun fact: I love **Linux Dev Enviornment**
+- ⚡ Fun fact: I have a love-hate relationship with **Linux**
 
 ### Skills
 
 <!-- Here are some of the skills and technologies that I have learned and am proficient in:
 
-- React
+- Next JS
 - JavaScript
 - Git
 - Linux
@@ -31,7 +30,7 @@ Here are some ideas to get you started: -->
  -->
 <div align="left">
 
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Next" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=black&style=for-the-badge"/>  
