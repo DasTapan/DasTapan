@@ -30,7 +30,7 @@ Here are some ideas to get you started: -->
  -->
 <div align="left">
 
-<img alt="Next" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Next JS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=black&style=for-the-badge"/>  
