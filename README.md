@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tapan Das</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dastapan&label=Profile%20views&color=0e75b6&style=flat" alt="dastapan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dastapan" alt="dastapan" /></a> </p>
 
 - 🌱 I’m currently learning **Ruby on Rails**
