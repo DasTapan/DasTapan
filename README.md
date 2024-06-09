@@ -1,50 +1,29 @@
-### About Me
+<h1 align="center">Hi 👋, I'm Tapan Das</h1>
+<h3 align="center">Software Engineer</h3>
 
-Hello there! 👋 I'm Tapan, a web developer with a focus on crafting engaging web experiences using the React framework. My GitHub is a hub for all things UI/UX, where I love experimenting with innovative designs and cutting-edge technologies. Join me on this coding journey as we build beautiful, user-friendly interfaces together! Let's collaborate and create something remarkable! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dastapan&label=Profile%20views&color=0e75b6&style=flat" alt="dastapan" /> </p>
 
-<!-- **DasTapan/DasTapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dastapan" alt="dastapan" /></a> </p>
 
-Here are some ideas to get you started: -->
+- 🌱 I’m currently learning **Ruby on Rails**
 
-- 🔭 I’m currently learning **Server Side Technology**
-- 👯 I’m looking to collaborate on **Intersting Projects**
 - 💬 Ask me about **Anything**
-- 📫 How to reach me: <a  href="https://www.linkedin.com/in/td94/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- ⚡ Fun fact: I have a love-hate relationship with **Linux**
 
-### Skills
+- 📫 How to reach me **tapands.das@gmail.com**
 
-<!-- Here are some of the skills and technologies that I have learned and am proficient in:
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GLnJYcCrbiezw9TKwgbIgB2E2JSgEutr/view?usp=drive_link](https://drive.google.com/file/d/1GLnJYcCrbiezw9TKwgbIgB2E2JSgEutr/view?usp=drive_link)
 
-- Next JS
-- Typescript
-- Tanstack Query
-- Tailwind CSS
-- Python
-- Ruby
-- React Hook Form
-- ZOD
-- Framer Motion
-- Jest
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/td94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="td94" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13803023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13803023" height="30" width="40" /></a>
+</p>
 
- -->
-<div align="left">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<img alt="next-js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img alt="typescript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
-<img alt="tw-css" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=black&style=for-the-badge"/>  
-<img alt="r-query" src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=flat"/>
-<img alt="zod" src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff&style=flat"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dastapan&show_icons=true&locale=en&layout=compact" alt="dastapan" /></p>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dastapan&show_icons=true&locale=en" alt="dastapan" /></p>
 
-
-<!-- I am also eager to learn and explore new technologies and frameworks to enhance my skill set. -->
-
-### Operating System
-
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DasTapan&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&#160;&#160;&#160;&#160;&#160;&#160;&#160;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasTapan&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dastapan&" alt="dastapan" /></p>
