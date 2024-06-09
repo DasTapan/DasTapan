@@ -1,6 +1,6 @@
 ### About Me
 
-Hello there! 👋 I'm Tapan, a passionate front-end developer with a focus on crafting engaging web experiences using the React framework. My GitHub is a hub for all things UI/UX, where I love experimenting with innovative designs and cutting-edge technologies. Join me on this coding journey as we build beautiful, user-friendly interfaces together! Let's collaborate and create something remarkable! 
+Hello there! 👋 I'm Tapan, a web developer with a focus on crafting engaging web experiences using the React framework. My GitHub is a hub for all things UI/UX, where I love experimenting with innovative designs and cutting-edge technologies. Join me on this coding journey as we build beautiful, user-friendly interfaces together! Let's collaborate and create something remarkable! 
 
 <!-- **DasTapan/DasTapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,16 +17,16 @@ Here are some ideas to get you started: -->
 <!-- Here are some of the skills and technologies that I have learned and am proficient in:
 
 - Next JS
-- JavaScript
-- Git
-- Linux
-- Tailwind
-- SASS
-- CSS
-- Webpack
+- Typescript
+- Tanstack Query
+- Tailwind CSS
+- Python
+- Ruby
+- React Hook Form
+- ZOD
+- Framer Motion
 - Jest
-- npm
-- HTML
+
  -->
 <div align="left">
 
