@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tapands.das@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GLnJYcCrbiezw9TKwgbIgB2E2JSgEutr/view?usp=drive_link](https://drive.google.com/file/d/1GLnJYcCrbiezw9TKwgbIgB2E2JSgEutr/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IikeZj6uM8F8QOkOEIjfqiGrhRHEac1F/view?usp=sharing](https://drive.google.com/file/d/1IikeZj6uM8F8QOkOEIjfqiGrhRHEac1F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
