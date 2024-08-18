@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dastapan" alt="dastapan" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails**
-
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **tapands.das@gmail.com**
